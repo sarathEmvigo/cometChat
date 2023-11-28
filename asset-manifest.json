@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcfd6237.css",
+    "main.js": "/static/js/main.03774c23.js",
+    "static/media/aurora.mp4": "/static/media/aurora.50a77f0ca4aa9b872976.mp4",
+    "static/media/astro.png": "/static/media/astro.e6413858a844b407f0ad.png",
+    "static/media/sample.mp3": "/static/media/sample.8d14102f3e5d724f1908.mp3",
+    "static/media/Image-518@1x.png": "/static/media/Image-518@1x.17cc564a4288fb5b183b.png",
+    "static/media/sample.pdf": "/static/media/sample.6309a52cc32e4c137022.pdf",
+    "static/media/loading_icon.gif": "/static/media/loading_icon.1a32f552ee5280e2aef9.gif",
+    "static/media/spiderman_avatar.png": "/static/media/spiderman_avatar.dc2abed336ac03f64dbf.png",
+    "static/media/captainamerica_avatar.png": "/static/media/captainamerica_avatar.4afcc47b8ab363bffde6.png",
+    "static/media/ironman_avatar.png": "/static/media/ironman_avatar.d4c8ef2420eddff98dc1.png",
+    "static/media/group-member.svg": "/static/media/group-member.8542270874174bfca109fe079ec51c8a.svg",
+    "static/media/transfer-ownership-icon.svg": "/static/media/transfer-ownership-icon.3bc64d257c14351a5c69d4274e0a56f1.svg",
+    "static/media/video-bubble.svg": "/static/media/video-bubble.a7bb0fe8215c1ca314c400c18db1dcaa.svg",
+    "static/media/create-group.svg": "/static/media/create-group.a6f96b0f2f09ce0b00e1d627bdeeacec.svg",
+    "static/media/text-bubble.svg": "/static/media/text-bubble.759937a89ce4e28c757104978d6a54ae.svg",
+    "static/media/info.svg": "/static/media/info.3831382bfcb9958732373f8a9f67261c.svg",
+    "static/media/details.svg": "/static/media/details.b31e3e411b7c1a9212a7bf05860e5f7f.svg",
+    "static/media/contacts.svg": "/static/media/contacts.402611be7536cd4d8ed8281d47e8ca6b.svg",
+    "static/media/audio-bubble.svg": "/static/media/audio-bubble.0eef14ed4c627e918209ef1fcd493d6c.svg",
+    "index.html": "/index.html",
+    "static/media/image-bubble.svg": "/static/media/image-bubble.a6a609a64ea4a85ea6908660b2793504.svg",
+    "static/media/ban-members.svg": "/static/media/ban-members.42cb3dd95b53e41b2814af0931d83c09.svg",
+    "static/media/file-bubble.svg": "/static/media/file-bubble.554c78f85a4eec83d44ef777fb694438.svg",
+    "static/media/add-members.svg": "/static/media/add-members.09121f9f4e478377be6e083aa79210e5.svg",
+    "static/media/password-group.svg": "/static/media/password-group.5b840e09907e04fa426142572cdb45d1.svg",
+    "main.dcfd6237.css.map": "/static/css/main.dcfd6237.css.map",
+    "main.03774c23.js.map": "/static/js/main.03774c23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcfd6237.css",
+    "static/js/main.03774c23.js"
+  ]
+}
